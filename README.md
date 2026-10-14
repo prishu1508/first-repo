@@ -1,2 +1,3 @@
 # first-repo
-My First github repository
+My First git repository
+Author is Priyanshu Kumar
